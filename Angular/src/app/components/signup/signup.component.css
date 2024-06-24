@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 30px 30px 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 30vw;
+  /* height: 70vh; */
+}
+
+.form-field {
+  margin-bottom: 10px;
+}
+
+#signup-text {
+  text-align: center;
+  font-size: 36px;
+  padding-bottom: 20px;
+}
+
+.login-text {
+  text-align: center;
+}
+
+.signup-btn {
+  background-color: #f0f0f0;
+  margin-bottom: 30px;
+}

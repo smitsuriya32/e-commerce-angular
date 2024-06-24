@@ -1,0 +1,27 @@
+/* src/app/app.component.css */
+.spacer {
+  flex: 1 1 auto;
+}
+
+.navbar{
+  background-color: #95d5b2;
+  /* position: fixed; */
+}
+
+.mat-footer {
+  background-color: #95d5b2;
+  text-align: center !important; 
+  padding: 10px;
+  color: black !important;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  font-size: small;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-text {
+  display: block; /* Ensure text is displayed as block for centering */
+  text-align: center !important;
+}

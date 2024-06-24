@@ -1,0 +1,29 @@
+.container{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin-bottom: 20px;
+    width: 50vw;
+}
+
+.card-title{
+    padding: 20px 20px 0px 20px;
+}
+
+.input-fields{
+    display: flex;
+    flex-direction: column;
+    width: 94%;
+    padding: 20px;
+}
+
+.card-content{
+    padding: 20px;
+}
+
+#total-text{
+    font-weight: 600;
+}

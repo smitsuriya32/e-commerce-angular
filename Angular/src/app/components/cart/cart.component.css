@@ -1,0 +1,43 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.cart-item-container{
+
+}
+
+.cart-item-card {
+  width: 20vw;
+  margin: 10px;
+  margin: 10px;
+  bottom: 0;
+  align-items: center;
+}
+
+mat-form-field {
+  width: 100px;
+}
+
+.cartImg{
+  width: 12vw;
+  height: auto;
+}
+
+.total-price{
+  font-weight:500;
+  font-size: large;
+}
+
+.checkout-btn{
+  margin: 0px 20px 20px 20px;
+  font-weight: 500;
+  color: black;
+  background-color: #f0f0f0;
+}
+
+.remove-btn{
+  color: black;
+}
